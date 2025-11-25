@@ -1,0 +1,5 @@
+{
+  "name": "Competitor Poacher OS",
+  "description": "An intelligence dashboard that analyzes competitor weaknesses using Gemini AI. It extracts negative sentiment from review data to generate hot lead lists and sales scripts for rival acquisition.",
+  "requestFramePermissions": []
+}
